@@ -1,5 +1,4 @@
 # Color-Game-Project
+## This is a repository dedicated to all my web dev projects
 
-
-
-This is a RGB guessing game project from Udemy rebuilt by me.
+Color Game Project -This is a RGB guessing game project rebuilt by me.
